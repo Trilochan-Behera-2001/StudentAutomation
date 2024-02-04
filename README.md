@@ -16,3 +16,13 @@ Features:
 ->Admin can register new students.
 
 ->Admin can input and manage semester-wise mark sheets for each student.
+
+--->This project leverages a robust technology stack, including:
+
+1.JDBC: for seamless interaction with the database
+2.JSP (JavaServer Pages): for dynamic and efficient web page rendering
+3.Servlet: for handling requests and managing the application's flow
+4.MySQL: as the reliable and scalable relational database management system
+5.Bootstrap: for responsive and visually appealing front-end development
+6.CSS: to style and enhance the overall user interface
+7.JavaScript: for interactive and dynamic client-side scripting and etc....
