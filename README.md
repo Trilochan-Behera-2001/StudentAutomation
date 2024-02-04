@@ -8,9 +8,11 @@ Features:
 1. Student Dashboard:
 
 ->Registered students can access their semester-wise mark sheets.
+
 ->View and print functionality for mark sheets semester-wise.
 
 2. Admin Module:
 
 ->Admin can register new students.
+
 ->Admin can input and manage semester-wise mark sheets for each student.
